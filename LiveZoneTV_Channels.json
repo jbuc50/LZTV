@@ -14,13 +14,25 @@
       "autoPlayBackup": true
     },
     {
+      "name": "Bangla +",
+      "logo": "https://i.postimg.cc/P5XXYFxd/20250529-111735.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
       "name": "Colors Bangla Cinema",
       "logo": "https://i.postimg.cc/13pfykGD/20250602-220936.png",
       "group": "indian Bangla",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=sboxcast"
+          "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -32,7 +44,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=sboxcast"
+          "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -56,7 +68,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=sboxcast"
+          "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -74,13 +86,13 @@
       "autoPlayBackup": true
     },
     {
-      "name": "Khushboo Bangla",
-      "logo": "https://i.postimg.cc/wBX16XCx/20251031-205432.jpg",
+      "name": "Sananda TV",
+      "logo": "https://i.postimg.cc/xTSTTdVJ/20250529-111933.png",
       "group": "indian Bangla",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8"
+          "url": "https://live.sanandatelevision.in/sananda/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -105,19 +117,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/index.m3u8"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
-      "name": "Sun Bangla",
-      "logo": "https://i.postimg.cc/wM44Y5g2/20250711-062827.png",
-      "group": "indian Bangla",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "http://103.135.253.32:8080/SUN-BANGLA/index.m3u8"
+          "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -129,7 +129,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8"
+          "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -141,7 +141,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://da86m1sqpm3o0.cloudfront.net/260723/smil:zeebangla.smil/index.m3u8"
+          "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -153,7 +153,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pictures_hd/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/and_picture_hd_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -165,7 +165,19 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/tv_hd/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/and_tv_hd_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "B4U Movies",
+      "logo": "https://i.postimg.cc/13nLvxQx/20250630-050504.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/b4u_movies_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -177,7 +189,55 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Colors-HD/index.m3u8?token=sboxcast"
+          "url": "http://103.135.253.32:8080/Color-HD/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Colors Cineplex",
+      "logo": "https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Gold Mines",
+      "logo": "https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest/scale-to-width-down/360?cb=20240404141630",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Gold Mines Bollywood",
+      "logo": "https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest/scale-to-width-down/360?cb=20240404141630",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Gold Mines Movies",
+      "logo": "https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest/scale-to-width-down/360?cb=20240404141630",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -189,10 +249,35 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://j6nfugukcl.gpcdn.net/tile_3/master.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/hum_tv_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Kal",
+      "logo": "https://i.postimg.cc/L5TmcvqR/hridoytvgate-(14).webp",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/playlist.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sony Marathi",
+      "logo": "https://i.postimg.cc/mZ6Xz0ds/Hridoy-TV-pro-(19).webp",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009259"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Sony Max",
@@ -298,37 +383,13 @@
       "referer": "https://techandeat.online"
     },
     {
-      "name": "Star Gold HD",
-      "logo": "https://i.postimg.cc/PqN0KF2M/20251202-090224.png",
+      "name": "Zee Bollywood",
+      "logo": "https://i.postimg.cc/x81JsTj1/20250529-134250.png",
       "group": "indian Hindi",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/StarGold/index.m3u8?token=sboxcast"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
-      "name": "Star Gold Select",
-      "logo": "https://i.postimg.cc/4xdM5tT7/20260402-210758.png",
-      "group": "indian Hindi",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=sboxcast"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
-      "name": "Star Plus HD",
-      "logo": "https://i.postimg.cc/q7gWQZjw/20251202-090307.png",
-      "group": "indian Hindi",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=sboxcast"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_bollywood_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -340,7 +401,19 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_cinema_hd_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Zee Tv",
+      "logo": "https://i.postimg.cc/1z18kKRT/20250529-133622.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_tv_hd_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -382,6 +455,30 @@
       "autoPlayBackup": true
     },
     {
+      "name": "ATN Bangla",
+      "logo": "https://i.postimg.cc/FHBMzPkW/20250529-102502.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "ATN News",
+      "logo": "https://i.postimg.cc/4NBkk4fT/20250529-102724.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
       "name": "Bangla Tv",
       "logo": "https://i.postimg.cc/tTWQLhTr/20250529-104243.png",
       "group": "Bangla",
@@ -418,6 +515,30 @@
       "autoPlayBackup": true
     },
     {
+      "name": "Boishakhi",
+      "logo": "https://i.postimg.cc/Y0MVZZT9/20250529-101947.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "BTV Chottogram",
+      "logo": "https://i.postimg.cc/VNJ90KyZ/20260913-101041.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
       "name": "BTV HD",
       "logo": "https://i.postimg.cc/JnWdHSrq/20250529-071604.png",
       "group": "Bangla",
@@ -430,13 +551,37 @@
       "autoPlayBackup": true
     },
     {
+      "name": "Channel 1 HD",
+      "logo": "https://i.postimg.cc/Zqgx8hm1/20260430-184013.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/channel_1_hd_abr/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Channel 24",
+      "logo": "https://i.postimg.cc/nLmPznJr/20250529-071852.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
       "name": "Channel 9",
       "logo": "https://i.postimg.cc/pVq6vZYV/20250729-030034.png",
       "group": "Bangla",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_7/master.m3u8"
+          "url": "https://box.bbaria.net:8083/Channel9/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -448,7 +593,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8"
+          "url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -466,6 +611,18 @@
       "autoPlayBackup": true
     },
     {
+      "name": "DBC News",
+      "logo": "https://i.postimg.cc/nzvgdpRg/20250529-102312.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
       "name": "Deepto",
       "logo": "https://i.postimg.cc/9XPHbts0/20250529-103607.png",
       "group": "Bangla",
@@ -478,13 +635,109 @@
       "autoPlayBackup": true
     },
     {
+      "name": "Desh TV",
+      "logo": "https://i.postimg.cc/FHM5wnxZ/20260913-092819.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Deshi Tv",
+      "logo": "https://i.postimg.cc/t4KQ8mzr/20260913-092735.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Drama 24",
+      "logo": "https://i.postimg.cc/yN04KXfX/20260913-092650.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
       "name": "Ekattor HD",
       "logo": "https://i.postimg.cc/D0xCDZqj/20250529-071258.png",
       "group": "Bangla",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8"
+          "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Ekhon TV",
+      "logo": "https://i.postimg.cc/sggzvQ6X/20250529-105045.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Ekushe TV",
+      "logo": "https://i.postimg.cc/L6R2F0jj/20250529-105209.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Enter TV",
+      "logo": "https://i.postimg.cc/g06jByt1/entertv.jpg",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://live1.entertv.com.bd/entertv/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "G TV",
+      "logo": "https://i.postimg.cc/jjKGfnW8/20250704-201040.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://livetv.shamon-cable.net:8443/GaziTVHD/index.m3u8?token=scn"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Global TV",
+      "logo": "https://i.postimg.cc/SRL4zWbX/20250529-105303.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://116.204.149.16/globaltv/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -496,31 +749,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
-      "name": "Iqra Bangla",
-      "logo": "https://i.postimg.cc/qqLNkFLg/20250531-104940.png",
-      "group": "Bangla",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
-      "name": "Islamic TV",
-      "logo": "https://i.postimg.cc/J4nkLqHS/20260321-075216.png",
-      "group": "Bangla",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/islamic_tv/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/independent_tv/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -557,18 +786,6 @@
         {
           "name": "Main Stream",
           "url": "http://116.204.149.16/maasranga/index.m3u8"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
-      "name": "Madani Bangla",
-      "logo": "https://i.postimg.cc/1tDgdXVG/20250531-105059.png",
-      "group": "Bangla",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "https://tvsen3.aynaott.com/z24qLsqV/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -658,13 +875,37 @@
       "autoPlayBackup": true
     },
     {
-      "name": "Peace TV Bangla",
-      "logo": "https://i.postimg.cc/vTYq396x/20250529-071345.png",
+      "name": "News 21",
+      "logo": "https://i.postimg.cc/L8cKG0VB/20260913-092913.png",
       "group": "Bangla",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8"
+          "url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "News 24",
+      "logo": "https://i.postimg.cc/K8jXZXj3/20250529-103008.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Nexus TV",
+      "logo": "https://i.postimg.cc/XvZ0gM06/20250529-104547.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -676,7 +917,19 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8"
+          "url": "https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Rajdhani",
+      "logo": "https://i.postimg.cc/L5CGDyXt/20260913-092017.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -688,7 +941,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8"
+          "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -700,7 +953,19 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/somoy_tv/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "SRK",
+      "logo": "https://i.postimg.cc/6QCJKLj9/20260913-092122.png",
+      "group": "Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -712,7 +977,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/cartoon_network_hd/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/cn_hd_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -724,7 +989,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/discovery_kids/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/discovery_kids_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -736,7 +1001,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Duronto/index.m3u8?token=sboxcast"
+          "url": "http://103.135.253.32:8080/DORONTU-TV/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -748,7 +1013,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.balajibroadband.com:3500/live/1341.m3u8"
+          "url": "http://103.135.253.32:8080/NICK/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -760,7 +1025,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pogo/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pogo_sd_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -772,7 +1037,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000001971"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/sony_yay_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true,
@@ -797,7 +1062,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/discovery_hd/index.m3u8"
+          "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -821,7 +1086,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://sm-monirul.top/@sm_iptv_bd/live.php?id=natgeo_hd&sm=.m3u8"
+          "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -834,6 +1099,18 @@
         {
           "name": "Main Stream",
           "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Euro Sports HD",
+      "logo": "https://i.postimg.cc/K89SfFWN/20251208-221926.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/euro_sports_hd_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -897,7 +1174,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast"
+          "url": "https://livetv.shamon-cable.net:8443/Star-sports-1/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -921,7 +1198,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast"
+          "url": "https://livetv.shamon-cable.net:8443/Star-select-1/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -933,7 +1210,19 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast"
+          "url": "https://livetv.shamon-cable.net:8443/Star-select-2/index.m3u8?token=scn"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "T Sports",
+      "logo": "https://i.postimg.cc/VL5yTtwr/20250707-141739.png",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://livetv.shamon-cable.net:8443/T-Sports-FHD/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -957,7 +1246,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/sony_ten_cricket/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/ten_cricket_hd_abr/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -969,7 +1258,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.114.11.37:8081/Willow-TV/index.m3u8?token=sboxcast"
+          "url": "https://livetv.shamon-cable.net:8443/Willow-TV/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
