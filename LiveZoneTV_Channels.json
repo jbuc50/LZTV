@@ -32,7 +32,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8?token=scn"
+          "url": "https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=colors-bangla-cinema&sm=.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -44,7 +44,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8?token=scn"
+          "url": "https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=colors-bangla-hd&sm=.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -68,7 +68,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8?token=scn"
+          "url": "https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=jalsha-movies-hd&sm=.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -129,7 +129,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8?token=scn"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -977,7 +977,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/cn_hd_abr/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/cartoon_network_hd/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -989,7 +989,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/discovery_kids_abr/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/discovery_kids/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1013,7 +1013,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.135.253.32:8080/NICK/index.m3u8"
+          "url": "http://live.balajibroadband.com:3500/live/1341.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1025,7 +1025,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pogo_sd_abr/index.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pogo/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1062,7 +1062,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8"
+          "url": "https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=discovery-hd&sm=.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1086,7 +1086,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8"
+          "url": "https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=natgeo-hd&sm=.m3u8"
         }
       ],
       "autoPlayBackup": true

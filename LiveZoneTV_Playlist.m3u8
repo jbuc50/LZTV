@@ -4,13 +4,13 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-name="Bangla +" tvg-logo="https://i.postimg.cc/P5XXYFxd/20250529-111735.png" group-title="indian Bangla",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/13pfykGD/20250602-220936.png" group-title="indian Bangla",Colors Bangla Cinema
-https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8?token=scn
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=colors-bangla-cinema&sm=.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://i.postimg.cc/HLdjn6zR/20250602-220804.png" group-title="indian Bangla",Colors Bangla HD
-https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8?token=scn
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=colors-bangla-hd&sm=.m3u8
 #EXTINF:-1 tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/LX122cy3/20250529-111624.png" group-title="indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707-053157.png" group-title="indian Bangla",Jalsha Movies HD
-https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8?token=scn
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=jalsha-movies-hd&sm=.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies SD" tvg-logo="https://i.postimg.cc/G3gmTZRs/20260204-142159.png" group-title="indian Bangla",Jalsha Movies SD
 https://box.bbaria.net:8083/Jalsha_Movie/index.m3u8
 #EXTINF:-1 tvg-name="Sananda TV" tvg-logo="https://i.postimg.cc/xTSTTdVJ/20250529-111933.png" group-title="indian Bangla",Sananda TV
@@ -21,7 +21,7 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009255
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="indian Bangla",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/Zq0JDBpg/20250529-110358.png" group-title="indian Bangla",Zee Bangla Cinema
-https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8?token=scn
+https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/ry5MbLR8/20250529-105712.png" group-title="indian Bangla",Zee Bangla HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-name="& Picture HD" tvg-logo="https://i.postimg.cc/k5N2qtB5/20250529-133459.png" group-title="indian Hindi",& Picture HD
@@ -169,26 +169,26 @@ https://toffee.sm-monirul-islam-rs.workers.dev/somoy_tv/index.m3u8
 #EXTINF:-1 tvg-name="SRK" tvg-logo="https://i.postimg.cc/6QCJKLj9/20260913-092122.png" group-title="Bangla",SRK
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network HD+" tvg-logo="https://i.postimg.cc/1tkRFmgd/20250529-115531.png" group-title="Kids",Cartoon Network HD+
-https://toffee.sm-monirul-islam-rs.workers.dev/cn_hd_abr/index.m3u8
+https://toffee.sm-monirul-islam-rs.workers.dev/cartoon_network_hd/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/pXdcjfHg/20250529-115821.png" group-title="Kids",Discovery Kids
-https://toffee.sm-monirul-islam-rs.workers.dev/discovery_kids_abr/index.m3u8
+https://toffee.sm-monirul-islam-rs.workers.dev/discovery_kids/index.m3u8
 #EXTINF:-1 tvg-name="Durunto" tvg-logo="https://i.postimg.cc/s2WM2BPR/20251127-095726.png" group-title="Kids",Durunto
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8
 #EXTINF:-1 tvg-name="Nick Bangla" tvg-logo="https://i.postimg.cc/4dQCpzTm/20250630-050342.png" group-title="Kids",Nick Bangla
-http://103.135.253.32:8080/NICK/index.m3u8
+http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-name="Pogo" tvg-logo="https://i.postimg.cc/W3FbtF4r/20250529-115709.png" group-title="Kids",Pogo
-https://toffee.sm-monirul-islam-rs.workers.dev/pogo_sd_abr/index.m3u8
+https://toffee.sm-monirul-islam-rs.workers.dev/pogo/index.m3u8
 #EXTINF:-1 tvg-name="Sony YAY" tvg-logo="https://i.postimg.cc/wBbj6c9g/20250529-115914.png" group-title="Kids",Sony YAY
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://toffee.sm-monirul-islam-rs.workers.dev/sony_yay_abr/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/qR885pSD/20251002-231959.png" group-title="Documentary",Animal Planet HD
 https://toffee.sm-monirul-islam-rs.workers.dev/animal_planet_hd/index.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://i.postimg.cc/k4xxp7zh/20251002-232031.png" group-title="Documentary",Discovery HD
-http://103.135.253.32:8080/DISCOVERY/index.m3u8
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=discovery-hd&sm=.m3u8
 #EXTINF:-1 tvg-name="Love Natural 4k" tvg-logo="https://i.postimg.cc/XYG6H09y/20260913-093002.png" group-title="Documentary",Love Natural 4k
 http://27.124.71.27/Love_Nature/index.m3u8
 #EXTINF:-1 tvg-name="National Geo HD" tvg-logo="https://i.postimg.cc/Zn4KK0kW/20251031-210443.png" group-title="Documentary",National Geo HD
-http://103.135.253.32:8080/NATGEO-HD/index.m3u8
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=natgeo-hd&sm=.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="Sports",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-name="Euro Sports HD" tvg-logo="https://i.postimg.cc/K89SfFWN/20251208-221926.png" group-title="Sports",Euro Sports HD
