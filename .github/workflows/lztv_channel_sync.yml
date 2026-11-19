@@ -1,5 +1,5 @@
 
-name: LiveZoneTV Channel Auto Sync
+name: LZTV Channel Auto Sync
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: livezonetv-channel-sync
+  group: lztv-channel-sync
   cancel-in-progress: false
 
 jobs:
@@ -30,23 +30,23 @@ jobs:
           python-version: "3.11"
 
       - name: Run channel sync
-        run: python livezonetv_channel_sync.py
+        run: python lztv_channel_sync.py
 
       - name: Verify both output files
         run: |
-          test -s LiveZoneTV_Channels.json
-          test -s LiveZoneTV_Playlist.m3u8
+          test -s LZTV_Channels.json
+          test -s LZTV_Playlist.m3u8
 
           echo "Both files generated successfully."
-          ls -lh LiveZoneTV_Channels.json LiveZoneTV_Playlist.m3u8
+          ls -lh LZTV_Channels.json LZTV_Playlist.m3u8
 
       - name: Commit updated JSON and M3U8
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -f LiveZoneTV_Channels.json
-          git add -f LiveZoneTV_Playlist.m3u8
+          git add -f LZTV_Channels.json
+          git add -f LZTV_Playlist.m3u8
 
           if git diff --cached --quiet; then
             echo "No file content changes detected."
