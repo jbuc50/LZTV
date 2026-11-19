@@ -20,7 +20,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8?token=scn"
+          "url": "http://103.114.11.37:8081/Colors-bangla-cinema/tracks-v1a1/mono.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -32,7 +32,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8?token=scn"
+          "url": "http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -954,7 +954,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8?token=scn"
+          "url": "http://103.114.11.37:8081/Duronto/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -1052,18 +1052,6 @@
         {
           "name": "Main Stream",
           "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
-      "name": "Euro Sports HD",
-      "logo": "https://i.postimg.cc/K89SfFWN/20251208-221926.png",
-      "group": "Sports",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/euro_sports_hd/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1169,37 +1157,25 @@
       "autoPlayBackup": true
     },
     {
-      "name": "T Sports",
-      "logo": "https://i.postimg.cc/VL5yTtwr/20250707-141739.png",
-      "group": "Sports",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "https://livetv.shamon-cable.net:8443/T-Sports-FHD/index.m3u8?token=scn"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
       "name": "T Sports HD",
       "logo": "https://i.postimg.cc/VL5yTtwr/20250707-141739.png",
       "group": "Sports",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
+          "url": "https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8"
         }
       ],
       "autoPlayBackup": true
     },
     {
-      "name": "Ten Cricket",
-      "logo": "https://i.postimg.cc/fWV00yP8/20250529-123315.png",
+      "name": "Willow",
+      "logo": "https://i.postimg.cc/qgfrNjFH/20250529-123654.png",
       "group": "Sports",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/ten_cricket_hd/index.m3u8"
+          "url": "https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1211,7 +1187,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://livetv.shamon-cable.net:8443/Willow-TV/index.m3u8?token=scn"
+          "url": "https://tvsen7.aynaott.com/Sports1/index.m3u8"
         }
       ],
       "autoPlayBackup": true
