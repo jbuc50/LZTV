@@ -1,7 +1,7 @@
 
 #!/usr/bin/env python3
 """
-LiveZoneTV automatic channel sync
+LZTV automatic channel sync
 
 - Fetches the latest Eamin TV Channel_Data.json API.
 - Generates LiveZoneTV_Channels.json and LiveZoneTV_Playlist.m3u8.
@@ -19,11 +19,11 @@ from pathlib import Path
 
 API_URL = "https://eamintv.vercel.app/IPTV/Apps/Info/Channel_Data/Api/Channel_Data.json"
 
-OUTPUT_JSON = Path("LiveZoneTV_Channels.json")
-OUTPUT_M3U = Path("LiveZoneTV_Playlist.m3u8")
+OUTPUT_JSON = Path("LZTV_Channels.json")
+OUTPUT_M3U = Path("LZTV_Playlist.m3u8")
 
 # Optional original converted JSON.
-PREVIOUS_JSON = Path("LiveZoneTV_Converted_Referer_Fixed.json")
+PREVIOUS_JSON = Path("LZTV_Converted_Referer_Fixed.json")
 
 GROUP_ORDER = [
     "𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",
@@ -85,7 +85,7 @@ def fetch_api():
     request = urllib.request.Request(
         API_URL,
         headers={
-            "User-Agent": "LiveZoneTV-Channel-Sync/1.0",
+            "User-Agent": "LZTV-Channel-Sync/1.0",
             "Accept": "application/json",
         }
     )
@@ -109,8 +109,8 @@ def load_old_referers():
     Preserve manually configured channel-level Referer values.
 
     Priority:
-    1. Existing LiveZoneTV_Channels.json
-    2. LiveZoneTV_Converted_Referer_Fixed.json
+    1. Existing LZTV_Channels.json
+    2. LZTV_Converted_Referer_Fixed.json
     """
 
     referers = {}
@@ -268,7 +268,7 @@ def make_m3u(channels):
 
 def main():
     print("======================================")
-    print(" LiveZoneTV Channel Auto Sync Started")
+    print(" LZTV Channel Auto Sync Started")
     print("======================================")
 
     print("Fetching latest API data...")
