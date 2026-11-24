@@ -1093,13 +1093,13 @@
       "autoPlayBackup": true
     },
     {
-      "name": "Euro Sports",
+      "name": "Euro Sports HD",
       "logo": "https://i.postimg.cc/K89SfFWN/20251208-221926.png",
       "group": "Sports",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/16.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/eurosport_hd/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1211,7 +1211,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/10.m3u8"
+          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/11.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1223,7 +1223,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/19.m3u8"
+          "url": "https://toffee.sm-monirul-islam-rs.workers.dev/sony_ten_cricket/index.m3u8"
         }
       ],
       "autoPlayBackup": true
