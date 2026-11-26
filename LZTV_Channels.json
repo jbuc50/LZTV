@@ -56,7 +56,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/65.m3u8"
+          "url": "http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -80,7 +80,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/62.m3u8"
+          "url": "https://techandeat.online/sliv/stream.m3u8?id=1000009255"
         }
       ],
       "autoPlayBackup": true,
@@ -1211,7 +1211,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/11.m3u8"
+          "url": "https://tvsen5.aynaott.com/TnMn5kZz8/index.m3u8"
         }
       ],
       "autoPlayBackup": true
