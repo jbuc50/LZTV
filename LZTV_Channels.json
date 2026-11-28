@@ -219,6 +219,18 @@
       "autoPlayBackup": true
     },
     {
+      "name": "Movies Now",
+      "logo": "https://i.postimg.cc/pLWxtpML/20260402-212201.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://27.124.71.27/Movies_Now/index.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
       "name": "Sony Kal",
       "logo": "https://i.postimg.cc/L5TmcvqR/hridoytvgate-(14).webp",
       "group": "indian Hindi",
@@ -358,6 +370,66 @@
       ],
       "autoPlayBackup": true,
       "referer": "https://techandeat.online"
+    },
+    {
+      "name": "Star Gold HD",
+      "logo": "https://i.postimg.cc/PqN0KF2M/20251202-090224.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/StarGold/index.m3u8?token=scn"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Gold Select",
+      "logo": "https://i.postimg.cc/4xdM5tT7/20260402-210758.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/StarGoldSelect/index.m3u8?token=scn"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Movies HD",
+      "logo": "https://i.postimg.cc/TYcpKMDZ/20251222-213635.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Star-Movies/index.m3u8?token=scn"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Movies Select",
+      "logo": "https://i.postimg.cc/X704Qs2Y/20260402-212800.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=scn"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Star Plus",
+      "logo": "https://i.postimg.cc/q7gWQZjw/20251202-090307.png",
+      "group": "indian Hindi",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
     },
     {
       "name": "Zee Bollywood",
@@ -954,7 +1026,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/55.m3u8"
+          "url": "http://103.114.11.37:8081/Duronto/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -966,7 +1038,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/64.m3u8"
+          "url": "http://live.balajibroadband.com:3500/live/1341.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1039,7 +1111,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=natgeo-hd&sm=.m3u8"
+          "url": "http://live.ftpbdlive.com:8080/dvlwebtv.php?action=stream&type=live&id=63"
         }
       ],
       "autoPlayBackup": true
@@ -1063,7 +1135,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/33.m3u8"
+          "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1075,19 +1147,19 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/31.m3u8"
+          "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8"
         }
       ],
       "autoPlayBackup": true
     },
     {
-      "name": "Cricbuzz",
-      "logo": "https://i.postimg.cc/tRNg8djq/20261123-222859.png",
+      "name": "BeiN Sports 3",
+      "logo": "https://i.postimg.cc/yNn7LhD0/20250529-125913.png",
       "group": "Sports",
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/22.m3u8"
+          "url": "http://27.124.71.27/beIN_Sports_3/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1103,6 +1175,19 @@
         }
       ],
       "autoPlayBackup": true
+    },
+    {
+      "name": "Sky Sports Cricket",
+      "logo": "https://i.postimg.cc/4NyDyTLY/Gemini-Generated-Image-ywt7duywt7duywt7.jpg",
+      "group": "Sports",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
+        }
+      ],
+      "autoPlayBackup": true,
+      "referer": "Mozila"
     },
     {
       "name": "Sony Ten 1",
@@ -1163,7 +1248,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/5.m3u8"
+          "url": "http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -1199,7 +1284,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/8.m3u8"
+          "url": "http://103.114.11.37:8081/Star-select-2/index.m3u8?token=scn"
         }
       ],
       "autoPlayBackup": true
@@ -1211,7 +1296,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "https://tvsen5.aynaott.com/TnMn5kZz8/index.m3u8"
+          "url": "http://103.209.196.22:84/feed1001/index.m3u8"
         }
       ],
       "autoPlayBackup": true
@@ -1235,7 +1320,7 @@
       "tabs": [
         {
           "name": "Main Stream",
-          "url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/24.m3u8"
+          "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
         }
       ],
       "autoPlayBackup": true
