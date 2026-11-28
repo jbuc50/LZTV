@@ -2,18 +2,6 @@
   "playlist_name": "LiveZone TV",
   "channels": [
     {
-      "name": "Akash 8",
-      "logo": "https://i.postimg.cc/PJ5V7VsN/20250711-062758.png",
-      "group": "indian Bangla",
-      "tabs": [
-        {
-          "name": "Main Stream",
-          "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8"
-        }
-      ],
-      "autoPlayBackup": true
-    },
-    {
       "name": "Colors Bangla Cinema",
       "logo": "https://i.postimg.cc/13pfykGD/20250602-220936.png",
       "group": "indian Bangla",
@@ -94,6 +82,18 @@
         {
           "name": "Main Stream",
           "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/playlist.m3u8"
+        }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "Sun Bangla",
+      "logo": "https://i.postimg.cc/wM44Y5g2/20250711-062827.png",
+      "group": "indian Bangla",
+      "tabs": [
+        {
+          "name": "Main Stream",
+          "url": "http://27.124.71.27/Sun_Bangla/index.m3u8"
         }
       ],
       "autoPlayBackup": true
